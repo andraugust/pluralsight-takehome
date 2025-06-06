@@ -4,7 +4,7 @@ The solution is a Random Forrest classifier trained on the data in `data/recruit
 
 Predictions are saved in `predictions.csv`. Model development and data exploration are saved in `solution.ipynb`.
 
-The trained model has an f1-score of 77% on a validation split.
+The trained model has an f1-score of 77% on the validation split used for development.
 
 Contact aaugust288@gmail.com for questions or follow-up.
 
